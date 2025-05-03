@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Ajay-Joshi-Porfolio/static/css/main.fc7927ee.css",
+    "main.js": "/Ajay-Joshi-Porfolio/static/js/main.24760e38.js",
+    "static/js/453.1407b060.chunk.js": "/Ajay-Joshi-Porfolio/static/js/453.1407b060.chunk.js",
+    "static/media/Photo4.jpg": "/Ajay-Joshi-Porfolio/static/media/Photo4.c285252b46f1c848b54c.jpg",
+    "index.html": "/Ajay-Joshi-Porfolio/index.html",
+    "main.fc7927ee.css.map": "/Ajay-Joshi-Porfolio/static/css/main.fc7927ee.css.map",
+    "main.24760e38.js.map": "/Ajay-Joshi-Porfolio/static/js/main.24760e38.js.map",
+    "453.1407b060.chunk.js.map": "/Ajay-Joshi-Porfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc7927ee.css",
+    "static/js/main.24760e38.js"
+  ]
+}
