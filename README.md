@@ -17,11 +17,11 @@ Built with **React** and hosted on **GitHub Pages**.
 
 ## 📫 Contact Me
 - Email: [ajayjoshi1908@gmail.com](mailto:ajayjoshi1908@gmail.com)
-- LinkedIn: [Ajay Joshi]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ajay-joshi-99b752252/))
-- GitHub: [AjayJoshi99]([https://github.com/yourusername](https://github.com/AjayJoshi99/))
+- LinkedIn: [Ajay Joshi](https://www.linkedin.com/in/ajay-joshi-99b752252/)
+- GitHub: [AjayJoshi99](https://github.com/AjayJoshi99/)
 
 ## 🌟 Live Demo
-[Click here to view my portfolio]([https://yourusername.github.io/your-repo-name](https://github.com/AjayJoshi99/Ajay-Joshi-Porfolio.git))
+[Click here to view my portfolio](https://github.com/AjayJoshi99/Ajay-Joshi-Porfolio.git)
 
 ---
 Made with ❤️ using React.
