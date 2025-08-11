@@ -25,6 +25,11 @@ const projectsData = [
     description: 'The ATM Software is a simple, yet powerful, application designed to simulate an ATM machine. It allows users to perform essential banking operations such as balance checking, withdrawals, and deposits. Built using Java, JDBC, and MySQL, the software ensures secure transaction handling and user authentication. The interface is intuitive, making it easy for users to interact with the system and perform transactions efficiently.',
     link: 'https://github.com/AjayJoshi99/ATM_Software',
   },
+  {
+    title: 'Online lost and found portal for campus',
+    description: 'The Lost and Found Portal is a web-based platform designed to help users report lost or found items within a community, organization, or campus. It enables users to create detailed listings with item descriptions, images, contact details, and location information. The portal includes search and filter functionality for quick item discovery, role-based access for admins to approve or manage posts, and email notifications to alert users about matching found items. Built using React, Node.js, Express, and MongoDB, the portal ensures efficient and user-friendly interaction for retrieving lost belongings.',
+    link: 'https://github.com/AjayJoshi99/Lost-Found',
+  },
 ];
 
 export default function App() {
