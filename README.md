@@ -21,7 +21,7 @@ Built with **React** and hosted on **GitHub Pages**.
 - GitHub: [AjayJoshi99](https://github.com/AjayJoshi99/)
 
 ## 🌟 Live Demo
-[Click here to view my portfolio](https://github.com/AjayJoshi99/Ajay-Joshi-Porfolio.git)
+[Click here to view my portfolio](https://ajayjoshi99.github.io/Ajay-Joshi-Porfolio/)
 
 ---
 Made with ❤️ using React.
